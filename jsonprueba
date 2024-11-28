@@ -1,0 +1,13 @@
+[
+ {
+ "run": "20804249-1",
+ "nombre": "Lucas",
+ "apellido": "Orrego",
+ "direccion": "Inacap",
+ "fono": 976907628,
+ "correo":"lucas.orrego@inacapmail.cl",
+ "montoCredito": 0,
+ "deuda": 0,
+ "tipo": 3
+ }
+]
